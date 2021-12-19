@@ -1,0 +1,291 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
+
+.Main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+   padding: 100px 90px;
+}
+/* main content tile */
+.main-content-tile{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: black;
+  margin-bottom: 12px;
+}
+.National {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FB6D3A; 
+
+}
+
+.Management {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+
+.September-all {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+  margin: 50px 0 0 0;
+  
+}
+/* Main content section */
+.Main-content-section{
+  padding: 100px 90px;
+}
+.about-my-profession {
+ color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 0 20px 0;
+}
+  /* my name */
+.my-name {
+    font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+padding: 0 0 25 0;
+color: #000;}
+/* about-my-discripsion */
+.about-my-discripsion{
+font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+  padding: 0 0 40px 0;
+  Width: 400px;}
+ li {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.About-me-container {
+}
+.My-Projects-container {
+  padding: 0 0 0px 0px;
+}
+.my-projects-list {
+  padding: 0 0 30px 10px;
+}
+.my-projects-list-u{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.My-projects-text{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.my-project-link{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  
+}
+.My-work-xperience-container {
+  padding: 0 0 15px 0;
+}
+.Front-End Developer-ab{
+  padding: 0 0 10px 0;
+}
+.Front-End-Developer-b {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+  
+}
+.September-2019 {
+  font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+}
+.My-work-experience-tex {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  padding:0 0 15px 17px;
+  color: #595959;
+}
+.My-work-experience-Loren {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding:0 0 20px 17px;  
+}
+.Manager {
+ color: #FB6D3A;
+}
+.March{
+  font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+
+
+
+}
+.new-meneger{
+color:#FB6D3A;
+}
+.june-2014{
+  font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+
+color: #A8A8A8;
+
+}
+.June {
+  font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+padding: 0 0 43px 17px;
+
+}
+.Front-End-Developer-ca {
+ color: #FB6D3A;
+}
+.My-Education-container {
+}
+/* sitebar section */
+.Sadebar-section {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+.Contacts-section{
+  margin: 50 0 0 40;
+  padding-left: 20px;
+}
+
+.Tech-Skills-section{
+  margin: 50 0 0 40;
+  padding-left: 20px;
+}
+.Soft-Skills-section{
+  margin: 45 0 0 40;
+  padding-left: 20px;
+}
+
+.Contacts-section-title{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.Tech-Skills-section-title{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: white;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+
+.Soft-Skills-section-title{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color:white;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+/* Contacts section */
+.Contacts-section-type {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  margin-right: 7px;
+  padding-left: 20px;
+
+}
+.Contacts-section-link{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color:#565e6A;
+}
+/* Tech skils section*/
+.Tech-Skills-list{
+  padding-left: 40px;
+
+}
+/*SOFT SKILS */
+.Soft-Skills-list{
+  padding-left: 40px;
+}
+.tech-skills-iten{
+  color: #fb6d3a
+}
+.soft-skills-iten{
+  color: #fb6d3a
+}
+.tech-skills-item-text{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: white
+
+}
+.soft-skills-item-text{
+  width: 113px;
+  height: 131px;
+  left: 80px;
+  top: 862px;
+  color: white;
+
+
+
+}
